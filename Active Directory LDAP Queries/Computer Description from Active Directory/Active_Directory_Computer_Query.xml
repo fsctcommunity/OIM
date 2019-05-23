@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DEX_QUERY_ROOT>
+    <DEX_QUERY ID="dex_1397235718161" eds_query_cache_period="60" eds_query_description="" eds_query_name="Active Directory Computer" eds_query_str="(&amp;(objectClass=computer)(cn={nbthost}))" eds_query_tag_list="nbthost" eds_query_type="LDAP"/>
+</DEX_QUERY_ROOT>
