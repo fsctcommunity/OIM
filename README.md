@@ -10,3 +10,8 @@ NOTE: Forescout does not support these integrations
     - Various Active Directory Queries leveraging OIM to pull information into CounterACT
 - Palo Alto GlobalProtect IP Stack Integration
     - Integration between Forescout and Palo Alto Global Protect VPN
+- Oomnitza Integration
+    - Integration between Forescout and Oomnitza
+- Unifi/Ubiquity Integration
+    - Integration between Forescout and Ubiquity
+    
