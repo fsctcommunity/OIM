@@ -13,5 +13,4 @@ NOTE: Forescout does not support these integrations
 - Oomnitza Integration
     - Integration between Forescout and Oomnitza
 - Unifi/Ubiquity Integration
-    - Integration between Forescout and Ubiquity
-    
+    - Integration between Forescout and Ubiquiti
