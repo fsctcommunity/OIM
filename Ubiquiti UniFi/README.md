@@ -13,4 +13,4 @@ The following requirements for this integration are:
 - Open Integration Module
 - UniFi Controller (CloudKey) account wtih read and write permissions to the REST API
 ## How do you configure this?
-Follow the PDF found on this repository
+Follow this URL for the most up-to-date intructions: https://docs.google.com/document/d/1t3xMu10HUWnt5_Xf-OmQ5bm8fYwAKcTpkXoqlSvoJkY/edit?usp=sharing
