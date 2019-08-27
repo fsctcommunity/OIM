@@ -1,4 +1,4 @@
-# Oomnitza and Forescout Integration
+# Ubiquiti UniFi and Forescout Integration
 ## What is Ubiquiti
 Ubiquiti UniFi Platofm (https://ui.com) is a Software-Defined Network (SDN) Solution.
 ## What does the Integration do?
