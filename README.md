@@ -14,3 +14,7 @@ NOTE: Forescout does not support these integrations
     - Integration between Forescout and Oomnitza
 - Unifi/Ubiquity Integration
     - Integration between Forescout and Ubiquiti
+- Forescout and Slack
+    - Integrating Forescout and Slack
+- Forescout and MS Teams
+    - Integrating Forescout and MS Teams
